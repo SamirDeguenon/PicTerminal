@@ -1,0 +1,343 @@
+# depslib dependency file v1.0
+1729427505 source:c:\users\dell\documents\picterminal\categorie.cpp
+	"Categorie.h"
+	<algorithm>
+
+1729427180 c:\users\dell\documents\picterminal\categorie.h
+	<iostream>
+	<string>
+	<vector>
+	"Image.h"
+
+1729355706 c:\users\dell\documents\picterminal\image.h
+	<iostream>
+	<string>
+	<vector>
+
+1729204863 source:c:\users\dell\documents\picterminal\galerie.cpp
+	"Galerie.h"
+	<algorithm>
+
+1729167763 c:\users\dell\documents\picterminal\galerie.h
+	<iostream>
+	<vector>
+	"Image.h"
+
+1729355706 source:c:\users\dell\documents\picterminal\image.cpp
+	"Image.h"
+	<iostream>
+
+1729440920 source:c:\users\dell\documents\picterminal\administrateur.cpp
+	"Administrateur.h"
+	<algorithm>
+	"Image.h"
+	"Categorie.h"
+	<iostream>
+	<vector>
+	<string>
+
+1729440942 c:\users\dell\documents\picterminal\administrateur.h
+	"Utilisateur.h"
+	"Categorie.h"
+
+1729349638 c:\users\dell\documents\picterminal\utilisateur.h
+	<iostream>
+	<string>
+	<vector>
+	"Galerie.h"
+	"Image.h"
+
+1729440436 source:c:\users\dell\documents\picterminal\statistiques.cpp
+	"Statistiques.h"
+	<algorithm>
+
+1729437911 c:\users\dell\documents\picterminal\statistiques.h
+	<iostream>
+	<vector>
+	"Image.h"
+	"Categorie.h"
+	"Utilisateur.h"
+
+1729355706 source:c:\users\dell\documents\picterminal\utilisateur.cpp
+	"Utilisateur.h"
+	<algorithm>
+	"Image.h"
+	"Galerie.h"
+	<vector>
+	<iostream>
+
+1729495185 source:c:\users\dell\documents\picterminal\main.cpp
+	<iostream>
+	<vector>
+	"Utilisateur.h"
+	"Administrateur.h"
+	"Categorie.h"
+	"Image.h"
+
+1729185433 c:\users\dell\documents\picterminal\main.cpp
+	<iostream>
+	<vector>
+	"Utilisateur.h"
+	"Administrateur.h"
+	"Statistiques.h"
+	"Image.h"
+
+1730806413 source:c:\users\dell\desktop\mes projets\picterminal\administrateur.cpp
+	"Administrateur.h"
+	<algorithm>
+	"Image.h"
+	"Categorie.h"
+	<iostream>
+	<vector>
+	<string>
+
+1730806347 c:\users\dell\desktop\mes projets\picterminal\administrateur.h
+	"Utilisateur.h"
+	"Categorie.h"
+
+1729346038 c:\users\dell\desktop\mes projets\picterminal\utilisateur.h
+	<iostream>
+	<string>
+	<vector>
+	"Galerie.h"
+	"Image.h"
+
+1729164163 c:\users\dell\desktop\mes projets\picterminal\galerie.h
+	<iostream>
+	<vector>
+	"Image.h"
+
+1730806174 c:\users\dell\desktop\mes projets\picterminal\image.h
+	<iostream>
+	<string>
+	<vector>
+
+1729423580 c:\users\dell\desktop\mes projets\picterminal\categorie.h
+	<iostream>
+	<string>
+	<vector>
+	"Image.h"
+
+1730969634 source:c:\users\dell\desktop\mes projets\picterminal\categorie.cpp
+	"Categorie.h"
+	<algorithm>
+
+1729201263 source:c:\users\dell\desktop\mes projets\picterminal\galerie.cpp
+	"Galerie.h"
+	<algorithm>
+
+1729352106 source:c:\users\dell\desktop\mes projets\picterminal\image.cpp
+	"Image.h"
+	<iostream>
+
+1730973075 source:c:\users\dell\desktop\mes projets\picterminal\main.cpp
+	<iostream>
+	<vector>
+	"Utilisateur.h"
+	"Administrateur.h"
+	"Categorie.h"
+	"Image.h"
+
+1730806477 source:c:\users\dell\desktop\mes projets\picterminal\utilisateur.cpp
+	"Utilisateur.h"
+	<algorithm>
+	"Image.h"
+	"Galerie.h"
+	<vector>
+	<iostream>
+
+1730977409 source:d:\2ème année\picterminal\picterminal\administrateur.cpp
+	"Administrateur.h"
+	<algorithm>
+	"Image.h"
+	"Categorie.h"
+	<iostream>
+	<vector>
+	<string>
+
+1730977409 d:\2ème année\picterminal\picterminal\administrateur.h
+	"Utilisateur.h"
+	"Categorie.h"
+
+1730977410 d:\2ème année\picterminal\picterminal\utilisateur.h
+	<iostream>
+	<string>
+	<vector>
+	"Galerie.h"
+	"Image.h"
+
+1730977410 d:\2ème année\picterminal\picterminal\galerie.h
+	<iostream>
+	<vector>
+	"Image.h"
+
+1730980561 d:\2ème année\picterminal\picterminal\image.h
+	<iostream>
+	<string>
+	<vector>
+
+1730977410 d:\2ème année\picterminal\picterminal\categorie.h
+	<iostream>
+	<string>
+	<vector>
+	"Image.h"
+
+1730977409 source:d:\2ème année\picterminal\picterminal\categorie.cpp
+	"Categorie.h"
+	<algorithm>
+
+1730977410 source:d:\2ème année\picterminal\picterminal\galerie.cpp
+	"Galerie.h"
+	<algorithm>
+
+1730980702 source:d:\2ème année\picterminal\picterminal\image.cpp
+	"Image.h"
+	<iostream>
+	<algorithm>
+
+1730981075 source:d:\2ème année\picterminal\picterminal\main.cpp
+	<iostream>
+	<vector>
+	"Utilisateur.h"
+	"Administrateur.h"
+	"Categorie.h"
+	"Image.h"
+
+1730977410 source:d:\2ème année\picterminal\picterminal\utilisateur.cpp
+	"Utilisateur.h"
+	<algorithm>
+	"Image.h"
+	"Galerie.h"
+	<vector>
+	<iostream>
+
+1738094135 source:c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\administrateur.cpp
+	"Administrateur.h"
+	<algorithm>
+	"Image.h"
+	"Categorie.h"
+	<iostream>
+	<vector>
+	<string>
+
+1738094135 c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\administrateur.h
+	"Utilisateur.h"
+	"Categorie.h"
+
+1738094136 c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\utilisateur.h
+	<iostream>
+	<string>
+	<vector>
+	"Galerie.h"
+	"Image.h"
+
+1738094135 c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\galerie.h
+	<iostream>
+	<vector>
+	"Image.h"
+
+1738094135 c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\image.h
+	<iostream>
+	<string>
+	<vector>
+
+1738094135 c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\categorie.h
+	<iostream>
+	<string>
+	<vector>
+	"Image.h"
+
+1738094135 source:c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\categorie.cpp
+	"Categorie.h"
+	<algorithm>
+
+1738094135 source:c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\galerie.cpp
+	"Galerie.h"
+	<algorithm>
+
+1738094135 source:c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\image.cpp
+	"Image.h"
+	<iostream>
+	<algorithm>
+
+1738094135 source:c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\main.cpp
+	<iostream>
+	<vector>
+	"Utilisateur.h"
+	"Administrateur.h"
+	"Categorie.h"
+	"Image.h"
+
+1738094136 source:c:\users\dell\desktop\picterminal colombe\picterminal\picterminal\utilisateur.cpp
+	"Utilisateur.h"
+	<algorithm>
+	"Image.h"
+	"Galerie.h"
+	<vector>
+	<iostream>
+
+1738097735 source:c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\administrateur.cpp
+	"Administrateur.h"
+	<algorithm>
+	"Image.h"
+	"Categorie.h"
+	<iostream>
+	<vector>
+	<string>
+
+1738097735 c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\administrateur.h
+	"Utilisateur.h"
+	"Categorie.h"
+
+1738097736 c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\utilisateur.h
+	<iostream>
+	<string>
+	<vector>
+	"Galerie.h"
+	"Image.h"
+
+1738097735 c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\galerie.h
+	<iostream>
+	<vector>
+	"Image.h"
+
+1738097735 c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\image.h
+	<iostream>
+	<string>
+	<vector>
+
+1738097735 c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\categorie.h
+	<iostream>
+	<string>
+	<vector>
+	"Image.h"
+
+1738097735 source:c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\categorie.cpp
+	"Categorie.h"
+	<algorithm>
+
+1738097735 source:c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\galerie.cpp
+	"Galerie.h"
+	<algorithm>
+
+1738097735 source:c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\image.cpp
+	"Image.h"
+	<iostream>
+	<algorithm>
+
+1738098375 source:c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\main.cpp
+	<iostream>
+	<vector>
+	"Utilisateur.h"
+	"Administrateur.h"
+	"Categorie.h"
+	"Image.h"
+
+1738097736 source:c:\users\dell\desktop\mes projets\picterminal\picterminal colombe\picterminal\picterminal\utilisateur.cpp
+	"Utilisateur.h"
+	<algorithm>
+	"Image.h"
+	"Galerie.h"
+	<vector>
+	<iostream>
+
