@@ -8,4 +8,5 @@ Picterminal est une plateforme d’administration d’un site de téléchargemen
 5) Gestion des favoris : Les utilisateurs peuvent ajouter des images à une liste de favoris pour un accès rapide ultérieur
 6) Système de notation : des images incluant également les likes.
 7) Gestion des droits d’accès : Les utilisateurs peuvent choisir de rendre leurs images publiques ou privées.
+
 Ce projet m’a permis d’approfondir mes connaissances en programmation C++
